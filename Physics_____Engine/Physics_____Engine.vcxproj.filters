@@ -26,10 +26,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="UIUx.hpp">
+    <ClInclude Include="Objects.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Objects.hpp">
+    <ClInclude Include="UIUx.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
